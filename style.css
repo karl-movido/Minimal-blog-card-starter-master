@@ -13,6 +13,7 @@ body {
   justify-content: center;
   flex-direction: column;
   font-family: "Sora", sans-serif;
+  background-color: #fafaf9;
 }
 
 .author-info {
